@@ -1,0 +1,24 @@
+venv/
+.venv/
+.venv_gpu/
+# PyCharm
+.idea/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Env files
+.env
+
+*.pth
+*.pth
+*.pt
+*.bin
