@@ -35,8 +35,6 @@ token ids
 - `pipeLine.ipynb` - full model-development notebook.
 - `input.txt` - training text.
 - `generated_text.txt` - generated sample output.
-- `bigram_model.pth` - saved checkpoint.
-
 ## Run
 
 Open `pipeLine.ipynb` and run the cells from top to bottom. CUDA is used automatically if available.
